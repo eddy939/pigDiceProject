@@ -1,4 +1,23 @@
-h1{
-  color: blue;
+#showdice{
+  font-size: 10em;
+  padding: 0;
+  margin: 0;
+  height: 163px;
+}
+
+#important{
+  background-color: #ffffff00;
+    text-align: center;
+}
+
+.howto{
   text-align: center;
+  padding-top: 10em;
+}
+
+body {
+    background-image: url("../images/dice2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
